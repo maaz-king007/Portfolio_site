@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio_site/static/css/main.fbc00891.css",
+    "main.js": "/Portfolio_site/static/js/main.d454272d.js",
+    "static/media/surgisight.png": "/Portfolio_site/static/media/surgisight.00e763b61512946d86c3.png",
+    "static/media/instagram.jpg": "/Portfolio_site/static/media/instagram.f46995926af7ad99f11c.jpg",
+    "static/media/volatilix.jpg": "/Portfolio_site/static/media/volatilix.cf20c4bd66f2e78b4f77.jpg",
+    "static/media/grievance.jpg": "/Portfolio_site/static/media/grievance.5e71408000638bcc46f6.jpg",
+    "static/media/football.jpg": "/Portfolio_site/static/media/football.a2b23e9a989d4eaa7490.jpg",
+    "static/media/profile.jpg": "/Portfolio_site/static/media/profile.7ae5bddad11f244b5dda.jpg",
+    "index.html": "/Portfolio_site/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fbc00891.css",
+    "static/js/main.d454272d.js"
+  ]
+}
